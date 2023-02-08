@@ -7,5 +7,6 @@
 
     - Detect the abnormal data in Military Supplies Test Report
     - Machine Learning (Classification)
+    - Model: Isolation Forest, AutoEncoder, ..
 
   </p>
