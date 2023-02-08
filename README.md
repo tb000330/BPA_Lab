@@ -4,6 +4,8 @@
 
 <p>
   <h3> Abnomal Detection </h3>
+  
   - Detect the abnormal data in Military Supplies Test Report
   - Machine Learning (Classification)
+ 
 </p>
